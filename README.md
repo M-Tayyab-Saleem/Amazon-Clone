@@ -1,2 +1,2 @@
-# Clone of Flipkart
-In this project I tried to make clone of Flipcart using HTML and CSS. Also use an API for images.
+# Clone of Amazon
+In this project I tried to make clone of Amazon using HTML and CSS.
